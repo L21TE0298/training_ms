@@ -41,5 +41,3 @@ dependency-reduced-pom.xml
 buildNumber.properties
 
 # End of https://www.gitignore.io/api/java,java-maven,intellij,sts,netbeans,vscode
-
-src/main/resources/application.properties

@@ -9,6 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class GhostapiApplication {
 
 	public static void main(String[] args) {
+		System.out.println("\n\n\n\n\n\nSPRING_DATASOURCE_URL " + System.getenv("SPRING_DATASOURCE_URL"));
 		SpringApplication.run(GhostapiApplication.class, args);
 	}
 
